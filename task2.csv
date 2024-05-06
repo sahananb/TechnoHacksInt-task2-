@@ -1,0 +1,15 @@
+PassengerId,,Survived,
+,,,
+Mean,1100.5,Mean,0.363636364
+Standard Error,5.909032634,Standard Error,0.023556909
+Median,1100.5,Median,0
+Mode,#N/A,Mode,0
+Standard Deviation,120.8104576,Standard Deviation,0.481622141
+Sample Variance,14595.16667,Sample Variance,0.231959887
+Kurtosis,-1.2,Kurtosis,-1.684331764
+Skewness,-3.42E-17,Skewness,0.56899058
+Range,417,Range,1
+Minimum,892,Minimum,0
+Maximum,1309,Maximum,1
+Sum,460009,Sum,152
+Count,418,Count,418
